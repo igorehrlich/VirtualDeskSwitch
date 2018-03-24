@@ -17,7 +17,7 @@ The virtual desktops feature of Windows 10 helps me a lot in my daily work, but 
 
 ### Download
 
-Download the latest stable binary version here:
+Download the latest stable binary version here: [Binary Version 1.0.0](https://github.com/igorehrlich/VirtualDeskSwitch/releases/download/Release_1.0.0/VirtualDeskSwitch_Release_V1.0.0.zip)
  
 ### Prerequisites
 
