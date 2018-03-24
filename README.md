@@ -46,6 +46,6 @@ This project is licensed under the MIT License - see the \[LICENSE.md\](LICENSE.
 
 ## Acknowledgments
 
-* Virtual Desk Switch is based on VirtualDesktop, a C# wrapper library by Grabacr07 
+* Virtual Desk Switch is based on VirtualDesktop, a C# wrapper library by Manato KAMEYA (Grabacr07)
 https://github.com/Grabacr07/VirtualDesktop 
 Thanks for your hard work to make the Windows 10 Virtual Desktop API usable in C#.
