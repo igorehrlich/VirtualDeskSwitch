@@ -34,7 +34,7 @@ Make sure that the notification tray icon is visible. Sometimes Windows hides in
 
 ## Versioning
 
-For the versions available, see the \[tags on this repository\](https://github.com/your/project/tags). 
+For the versions available, see the [tags on this repository]([Binary Version 1.0.0](https://github.com/igorehrlich/VirtualDeskSwitch/tags). 
 
 ## Author
 
