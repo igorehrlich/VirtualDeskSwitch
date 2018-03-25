@@ -46,6 +46,7 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ![Settings](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/SettingsDialog.png)
 
+![Direct Select](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/directSelectAction.gif)
 
 ## Author
 
