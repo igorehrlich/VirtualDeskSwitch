@@ -42,11 +42,11 @@ Make sure that the notification tray icon is visible. Sometimes Windows hides in
 For the versions available, see the [tags on this repository](https://github.com/igorehrlich/VirtualDeskSwitch/tags). 
 
 ## Screenshots
-![Notification Tray Screenshot](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/notify_screenshot.png)
+![Direct Select](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/directSelectAction.gif)
 
 ![Settings](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/SettingsDialog.png)
 
-![Direct Select](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/directSelectAction.gif)
+![Remove Desktop](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/removeAction.gif)
 
 ## Author
 
