@@ -2,7 +2,8 @@
 
 The goal of Virtual Desk Switch is to help you in your daily work with Windows 10 Virtual Desktops. It simplifies switching between virtual desktops and makes the process easier and faster by simply displaying a notification tray icon, that you can click to switch to the next desktop. When you reach the last desktop it simply switches back to the first desktop. Additionally the number of the current desktop is displayed in the notification icon. A right click contextmenu allows you to directly select a virtual desktop from a list.
 
-![Notification Tray Animation](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/VDeskActionSmall.gif)
+
+> ![Notification Tray Animation](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/VDeskActionSmall.gif)
 
 ### Features  
   - Switch to next desktop in row, if the notification icon is clicked
@@ -34,12 +35,17 @@ Virtual Desk Switch is **portable**. You can copy the app folder to any location
 
 Make sure that the notification tray icon is visible. Sometimes Windows hides inactive or new icons. You have to check if the icon is in the hidden area of the notification tray. Just click on the ^Arrow next to the Notification Tray and see if the icon is hidden there. If necessary, just drag the icon with your mouse to the visible area near the clock and drop it there.
 
+![Notification Tray hidden](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/HiddenIcon.gif)
+
 ## Versioning
 
 For the versions available, see the [tags on this repository](https://github.com/igorehrlich/VirtualDeskSwitch/tags). 
 
 ## Screenshots
 ![Notification Tray Screenshot](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/notify_screenshot.png)
+
+![Settings](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/SettingsDialog.png)
+
 
 ## Author
 
