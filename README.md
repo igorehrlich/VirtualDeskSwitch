@@ -1,4 +1,4 @@
-# Virtual Desk Switch   ![](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/app_very_small.png) 
+# Virtual Desk Switch   ![](https://github.com/igorehrlich/VirtualDeskSwitch/blob/master/pics/app_small.png) 
 
 The goal of Virtual Desk Switch is to help you in your daily work with Windows 10 Virtual Desktops. It simplifies switching between virtual desktops and makes the process easier and faster by simply displaying a notification tray icon, that you can click to switch to the next desktop. When you reach the last desktop it simply switches back to the first desktop. Additionally the number of the current desktop is displayed in the notification icon. A right click contextmenu allows you to directly select a virtual desktop from a list.
 
